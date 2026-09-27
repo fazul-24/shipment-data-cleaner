@@ -1,0 +1,11 @@
+ShipmentID,Customer,Origin,Destination,Weight_KG,Status
+SHP001,Acme Ltd,Chennai,Dubai,1200.0,Delivered
+SHP002,Bright Traders,Mumbai,Singapore,850.0,In Transit
+SHP002,Bright Traders,Mumbai,Singapore,850.0,In Transit
+SHP003,Global Exports,Chennai,New York,,delivered
+SHP004,  Nova Logistics ,Kolkata,Dubai,430.0,DELIVERED
+SHP005,Zenith Co,Chennai,Rotterdam,2100.0,Pending
+SHP006,Acme Ltd,Chennai,,1200.0,
+SHP007,,Delhi,Dubai,990.0,In Transit
+SHP008,Orion Freight,Chennai,Singapore,-50.0,Delivered
+,Delta Cargo,,New York,700.0,pending
